@@ -1,0 +1,60 @@
+
+* {
+  font-family: Tahoma, sans-serif ;
+}
+
+body {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 10px;
+}
+
+h2 {
+	color: #0099e6;
+	font-size: xx-large;
+}
+
+.row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#desc {
+	padding-top: 10px;
+}
+ 
+.shiny-input-container {
+	width: 100% !important;
+	height: 200px;
+}	
+
+#typeText {
+	height: 200px;
+}
+
+
+.shiny-bound-output {
+	height: 75px;
+	line-height: 75px;
+	text-align: center;
+	color: #0099e6;
+}
+
+#wordPrediction1 {
+	
+	font-size: xx-large;
+}
+
+#wordPrediction2 {
+
+	font-size: large;
+}
+
+#wordPrediction3 {
+	
+	font-size: large
+}
+
+#Info {
+	color: red;
+}
