@@ -43,7 +43,7 @@ shinyUI(fluidPage(theme="style_word_prediction.css",
                   4-gram with stupid backoff algorithm with a customary value of the discount
                   factor lambda = 0.4. The model was trained on 40% of blogs and news SwiftKey
                   data in English."),
-            tags$p("For R code, visit my ",tags$a(href="https://github.com/MPacho/NextWordPrediction", "Github repo"),".")
+            tags$p("For R code, visit my ",tags$a(target="_blank", href="https://github.com/MPacho/NextWordPrediction", "Github repo"),".")
         
             )
           )
